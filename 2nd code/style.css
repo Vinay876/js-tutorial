@@ -1,0 +1,23 @@
+h1{
+color: brown;
+transform: rotate(360);
+background-color: aqua;
+text-align: center;
+}
+input{
+    width:80px;
+    height: 50px;
+    border-color: black;
+    border-style:ridge;
+    
+}
+.main-brand{
+    margin: 2rem 0px;
+    font-size:2rem ;
+    padding: 0px;
+}
+ul{
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}

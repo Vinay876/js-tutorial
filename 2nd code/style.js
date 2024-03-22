@@ -1,0 +1,3 @@
+setIntervel(()=>{
+    Math.floor
+})

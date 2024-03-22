@@ -1,0 +1,49 @@
+h1{
+    margin:0px;
+    padding:0px;
+    color:rgb(18, 145, 223);
+}
+#face{
+    padding: 2px;
+    margin: 0px;
+font-size: 10px;
+border: 1px solid grey;
+float: left;
+width: 90%;
+background: #f1f1f1;
+}
+form button{
+    display: flex;
+    justify-content: space-around;
+    float: left;
+    width: 10%;
+    padding:7px;
+    background:#2196F3;
+    color:white;
+    
+   
+    cursor: pointer;
+}
+::placeholder{
+    color: black;
+    font-size :0.3cm;
+}
+#this
+{
+margin: auto;
+width:60%;
+padding:10px;
+/* position:absolute;
+top: 80px;
+right:10px;
+width: 300px;
+height: 20px; */
+}
+div.relative{
+    position:relative;
+    top:200px;
+    left:600px;
+    width:300px;
+    height:100px;
+    border: 3px solid #73ad21;
+}
